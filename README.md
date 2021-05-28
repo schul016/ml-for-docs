@@ -1,4 +1,8 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schul016/ml-for-docs/HEAD?filepath=index.ipynb)
+<p><a href="https://mybinder.org/v2/gh/schul016/ml-for-docs/HEAD?filepath=index.ipynb"><img height="32" width="32" src="https://mybinder.org/badge_logo.svg"/></a>
+<em>Launch in Binder</em></p>
+
+<p><a href="https://githubtocolab.com/schul016/ml-for-docs/edit/main/index.ipynb"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlecolab.svg"/></a>
+<em>Launch in Google Colab</em></p>
 
 # Python ML for Docs: Session 1
  ## Library import
@@ -66,19 +70,6 @@ pd.read_csv("./digit-recognizer/train.csv").head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
