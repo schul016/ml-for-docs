@@ -63,7 +63,7 @@ Now we take these basic skills and attempt to build a hand-written digit recogni
 
 
 ```python
-pd.read_csv("./digit-recognizer/train.csv").head()
+pd.read_csv("https://github.com/schul016/ml-for-docs/blob/main/digit-recognizer/train.csv?raw=true").head()
 ```
 
 
@@ -229,7 +229,7 @@ Above, you see that each row of our dataset has a label (0-9) and then 784 colum
 
 
 ```python
-train = pd.read_csv("./digit-recognizer/train.csv")
+train = pd.read_csv("https://github.com/schul016/ml-for-docs/blob/main/digit-recognizer/train.csv?raw=true")
 
 y = train["label"]
 y = y.values
