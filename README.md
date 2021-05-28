@@ -1,4 +1,4 @@
-<p><a href="https://mybinder.org/v2/gh/schul016/ml-for-docs/HEAD?filepath=index.ipynb"><img height="32" width="32" src="https://mybinder.org/badge_logo.svg"/></a>
+<p><a href="https://mybinder.org/v2/gh/schul016/ml-for-docs/HEAD?filepath=index.ipynb"><img src="https://mybinder.org/badge_logo.svg"/></a>
 <em>Launch in Binder</em></p>
 
 <p><a href="https://githubtocolab.com/schul016/ml-for-docs/edit/main/index.ipynb"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/googlecolab.svg"/></a>
