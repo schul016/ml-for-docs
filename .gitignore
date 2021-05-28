@@ -1,0 +1,5 @@
+# .venv
+.venv/
+
+# ipynb checkpoints
+.ipynb_checkpoints/
