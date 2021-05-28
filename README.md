@@ -1,4 +1,6 @@
- # Python ML for Docs: Session 1
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schul016/ml-for-docs/HEAD?filepath=index.ipynb)
+
+# Python ML for Docs: Session 1
  ## Library import
  
  First, we must load the necessary libraries. 
