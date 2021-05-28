@@ -46,7 +46,7 @@ plt.scatter(x,y)
 
 
     
-![png](index_files/index_5_1.png)
+![png](README_files/README_5_1.png)
     
 
 
@@ -257,7 +257,7 @@ for i in range(3):
 
 
     
-![png](index_files/index_9_0.png)
+![png](README_files/README_9_0.png)
     
 
 
@@ -305,7 +305,7 @@ for i in range(4):
 
 
     
-![png](index_files/index_13_0.png)
+![png](README_files/README_13_0.png)
     
 
 
@@ -450,7 +450,7 @@ for i in range(4):
 
 
     
-![png](index_files/index_19_0.png)
+![png](README_files/README_19_0.png)
     
 
 
@@ -921,7 +921,7 @@ for i in range(4):
 
 
     
-![png](index_files/index_25_0.png)
+![png](README_files/README_25_0.png)
     
 
 
