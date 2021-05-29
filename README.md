@@ -23,7 +23,7 @@ import matplotlib.pyplot as plt
 
 ## Create variables
 
-Shortcut to know: if your cursor is inside the opening "(" of a function, click SHIFT+B to get the signature of the function which will tell you about the parameters and parameter names that it requires.
+Shortcut to know: if your cursor is inside the opening "(" of a function, click SHIFT+TAB to get the signature of the function which will tell you about the parameters and parameter names that it requires.
 
 
 ```python
