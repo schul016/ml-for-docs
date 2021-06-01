@@ -58,7 +58,7 @@ plt.scatter(x,y)
 
 ## Recognize Digits
 
-Now we take these basic skills and attempt to build a hand-written digit recognizer.  We will utilize the resnet model.  You can learn more about the resnet neural network and it's performance and history [here](https://en.wikipedia.org/wiki/Residual_neural_network).
+Now we take these basic skills and attempt to build a hand-written digit recognizer.  We will utilize the resnet model.  You can learn more about the resnet neural network and its performance and history [here](https://en.wikipedia.org/wiki/Residual_neural_network).
 
 
 
